@@ -13,5 +13,25 @@
         <a href = "https://codeforces.com/profile/veedee" target = "_blank"><img src = "codeforces.png" alt = "codeforces image" width = "6%"/></a> 
         <a href = "https://sourcerer.io/veedee2000" target = "_blank"><img src = "sourcerer.png" alt = "sourcerer image" width = "6%"/></a>
     </pre>
+    <footer id="footer">
+		<div class="container">
+			<div class="col-md-12 text-center">
+
+				<h3> WANT MORE OF ME?</h3>
+				<ul class="social-icons-footer">
+						<li><a href="https://www.facebook.com/lionel.newton.92" target="_blank"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="https://twitter.com/SabujJanaCodes" target="_blank"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="https://www.instagram.com/sabuj_is_me/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+						<li><a href="https://github.com/JanaSabuj" target="_blank"><i class="fa fa-github"></i></a></li>
+						<li><a href="https://www.linkedin.com/in/sabujisme/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="https://medium.com/sabuj-jana" target="_blank"><i class="fa fa-medium"></i></a></li>
+						<li><a href="https://www.quora.com/profile/Sabuj-Jana-2" target="_blank"><i class="fa fa-quora"></i></a></li>
+						<li><a href="mailto:sabujlovescoding@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
+					</ul>
+
+				<p>   ❤ by Sabuj © 2019</p>
+			</div>
+		</div>
+	</footer>
 </body>
 </html>
