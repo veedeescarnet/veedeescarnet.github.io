@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+			<meta name="description" content="Sabuj Jana-Jadavpur University-IT-Noob Competitive Programmer-Kolkata-India.">
+			<meta name="keywords" content="Sabuj Jana,Sabuj,Jana,sabuj,jana,janasabuj,sabuj jana,jadavpur,blogger,writer,quora,medium,dps,ghs,garden high school,delhi public school ruby park,programmer,github,blogger">
     <title>Using font awesome</title>
     <script src="https://kit.fontawesome.com/ce0444d81d.js" crossorigin="anonymous"></script>
 </head>
