@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="assets/css/font-awesome.min.css"> 
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
     <link rel="stylesheet" href="assets/css/flexslider.css">
-    <link rel="stylesheet" href="assets/css/aos.css">
+    <link rel="stylesheet" href="aos.css">
     <link rel="stylesheet" href="assets/css/style.css"> 
     <link rel="stylesheet" href="assets/css/style-responsives.css">
     <link href="https://fonts.googleapis.com/css?family=Hind:600|Lato:300,400|Ubuntu" rel="stylesheet">
